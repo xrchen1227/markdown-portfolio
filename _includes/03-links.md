@@ -1,1 +1,1 @@
-![link to my society](https://www.edmun.org/)
+[edmun](https://www.edmun.org/)
