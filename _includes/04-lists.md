@@ -2,5 +2,6 @@
    1. fall of giants
    2. snow crash
 2. things to do
-  * things to eat
-  * things to buy
+   * things to eat
+   * things to buy
+      * toothpaste
