@@ -7,3 +7,7 @@ __This will also be bold__
 _You **can** combine them_
 
 **using bold *and italic* at the same time is cool**
+
+_emphasise this_
+
+__bold this__
